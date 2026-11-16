@@ -4,17 +4,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=0la+eu+sou+miguel+de+souza+marques+%F0%9F%91%8B;Estudante+de+Informatica+para+Internet+%F0%9F%92%BB;Desenvolvedor+Web+Front-end+%26+Back-end+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 </div>
-<-- BADGES DE REDES SOCIAIS E CONTATO -->
+<!-- BADGES DE REDES SOCIAIS E CONTATO -->
 <div align="center">
 <a href="mailto:miguel.8942@aluno.pr.senac.br">
-<img src"=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=Eomiguel15-&label=Visualiza%C3B5es&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
 </div>
  
 <br/>
 <!-- LNHA DIVISÓRIA ANIMADA -->
-<img src="https://userEomiguel5-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22 width="100%">
+<img src="https://userEomiguel5-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 <h1>👨‍💻 Sobre Mim</h1>
 <p>
