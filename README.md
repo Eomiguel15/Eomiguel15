@@ -9,7 +9,7 @@
 <a href="mailto:miguel.8942@aluno.pr.senac.br">
 <img src"=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=gabrielgn011-&label=Visualiza%C3B5es&color=0e75b6&style=for-the-badge%22 alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=Eomiguel15-&label=Visualiza%C3B5es&color=0e75b6&style=for-the-badge%22 alt="Contador de Visitas" />
 </div>
  
 <br/>
